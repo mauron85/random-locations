@@ -26,6 +26,12 @@ Installation
 bower install git://github.com/mauron85/random-locations.git
 ```
 
+or
+
+```
+npm install git://github.com/mauron85/random-locations.git
+```
+
 License
 ----
 
