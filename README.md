@@ -6,6 +6,14 @@ It's Javascript rewrite of [JAVA code](http://gis.stackexchange.com/questions/25
 
 There is sample html, to show how to use the library to render 100 semi-random locations.
 
+Screenshot
+----
+![Screenshot](https://raw.github.com/mauron85/random-locations/master/screenshot.png)
+
+JSfiddle demo
+----
+[go to demo](http://jsfiddle.net/mauron85/tFYWm/)
+
 Version
 ----
 
