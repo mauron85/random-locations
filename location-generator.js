@@ -11,7 +11,7 @@
         module.exports = factory();
     } else {
         // Browser globals (root is window)
-        root.Config = factory();
+        root.LocationGenerator = factory();
   }
 }(this, function () {
 
